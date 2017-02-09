@@ -1,0 +1,9 @@
+body {
+    background-color: gold;
+}
+#spoil-protect{
+  color: gold;
+}
+#spoil-protect:hover {
+    color: black;
+}
